@@ -1,0 +1,1 @@
+# Prediction_of_the_NIHSS_based_on_MRP_Imaging_using_a_3DResNet
