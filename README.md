@@ -1,1 +1,2 @@
-# Prediction_of_the_NIHSS_based_on_MRP_Imaging_using_a_3DResNet
+# Prediction of the NIHSS based on MRP Imaging using a 3DResNet
+### Code repository
